@@ -1,7 +1,7 @@
 # video-player
 
-# Course - Introduction to Mobile Application Development
+## Course - Introduction to Mobile Application Development
 
-# This is a simple Mobile Application for the course 
+## This is a simple Mobile Application for the course 
 
-# Made with Android Studio; Kotlin 
+## Made with Android Studio; Kotlin 
